@@ -14,5 +14,13 @@
         "psr-4": {
             "Techbandhu\\Fbpage\\": ""
         }
+    },
+    "extra": {
+        "map": [
+            [
+                "*",
+                "Inchoo/Stripe"
+            ]
+        ]
     }
 }
