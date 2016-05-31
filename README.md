@@ -26,6 +26,6 @@ composer require techbandhu/fbpage
  * php -f bin/magento module:enable --clear-static-content Techbandhu_Fbpage
  * php -f bin/magento setup:upgrade
 
-###3 - Config Gmail Smtp App
+###3 - Config Facebook Page Plugin
 Log into your Magetno Admin, then goto Stores -> Configuration -> Techbandhu -> Facebook Page Plugin
 Enter your facebook page URL and configure as require to show page plugin with your website.
